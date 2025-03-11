@@ -9,7 +9,7 @@
 Summary:	The Diff Match and Patch libraries
 Name:		python-%{module}
 Version:	20121119
-Release:	9
+Release:	10
 License:	ASL
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/22/82/46eaeab04805b4fac17630b59f30c4f2c8860988bcefd730ff4f1992908b/diff-match-patch-%{version}.tar.gz
